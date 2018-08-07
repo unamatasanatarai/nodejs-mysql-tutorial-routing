@@ -2,6 +2,8 @@ node.js playground with mysql
 ===
 ```docker run --name mysql -e MYSQL_ROOT_PASSWORD=pass -p 3306:3306 mysql:5```
 
+.then(`npm install`)
+
 .then(`docker exec -it mysql mysql -uroot -ppass`)
 
 .then(`create database tutorial;`)

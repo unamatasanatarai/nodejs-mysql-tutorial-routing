@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-mysql-tutorial-routing",
+  "version": "1.0.0",
+  "description": "a tutorial on nodejs mysql and express",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unamatasanatarai/nodejs-mysql-tutorial-routing.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs-server",
+    "nodejs-tutorial",
+    "nodejs-mysql"
+  ],
+  "author": "UnamataSanatarai",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/unamatasanatarai/nodejs-mysql-tutorial-routing/issues"
+  },
+  "homepage": "https://github.com/unamatasanatarai/nodejs-mysql-tutorial-routing#readme"
+}
